@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1046634",
+      "name": "003路标",
+      "font_class": "003lubiao",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "1718330",
+      "name": "日历9",
+      "font_class": "rili",
+      "unicode": "f0346",
+      "unicode_decimal": 983878
+    },
+    {
+      "icon_id": "4734165",
+      "name": "旗帜",
+      "font_class": "ic_settled",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5392410",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "6594238",
+      "name": "分类目录",
+      "font_class": "fenleimulu",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "6878445",
+      "name": "文件",
+      "font_class": "wenjian1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11690693",
+      "name": "楼房-大厦",
+      "font_class": "ziyuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13866966",
+      "name": "安全",
+      "font_class": "anquanzhuye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
